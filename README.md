@@ -3,7 +3,7 @@
 ## Installation :
 
 ```
-git clone https://github.com/D4RKH0R1Z0N/DARKOBF
+git clone https://github.com/D4RKH0R1Z0N/D4RKOBF.git
 cd D4RKOBF
 python d4rkobf.py
 ```
